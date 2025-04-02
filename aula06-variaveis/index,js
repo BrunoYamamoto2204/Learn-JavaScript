@@ -1,0 +1,5 @@
+let nome; // Declarou a variável
+nome = 'João'; // Inicializando a variável 
+console.log("seu nome é "+ nome);
+nome = "Jonson";
+console.log("seu nome é "+ nome);
