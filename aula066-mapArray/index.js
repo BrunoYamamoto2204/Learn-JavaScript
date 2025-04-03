@@ -22,6 +22,6 @@ const addId = pessoas.map((obj, indice) => {
 });
 console.log(apenasNomes)
 console.log(apenasIdade)
-// console.log(addId)
+
 console.log(pessoas)
 console.log(addId)
